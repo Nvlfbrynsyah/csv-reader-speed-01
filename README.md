@@ -1,9 +1,9 @@
-# CSV-READER-SPEED S1 — Fast Drop-in for CSV Reader 1.0.0
+# csv-reader-speed-01
 
-[![make.fun competition](https://img.shields.io/badge/make.fun-csv--reader--speed--01--run--20261121-blue)](https://make.fun)
-[![repo](https://img.shields.io/badge/repo-Nvlfbrynsyah%2Fcsv--reader--speed--01-green)](https://github.com/Nvlfbrynsyah/csv-reader-speed-01)
+[![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/Nvlfbrynsyah/csv-reader-speed-01/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/Nvlfbrynsyah/csv-reader-speed-01/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
 
-## Overview
 A high-performance, dependency-free ES module drop-in replacement for `csv-reader` 1.0.0, built for the make.fun speed competition. It produces exact semantic parity (columns, rows, errors, edge cases) while significantly outperforming the reference parser.
 
 ## How to Run
